@@ -1,7 +1,7 @@
 import csv
 
 # Initialize the name of the CSV file
-csv_file = "D:\Data Science\p_database.csv"
+csv_file = " "#Here paste your password csv file
 
 # Check if the CSV file exists or not
 try:
